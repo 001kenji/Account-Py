@@ -1,0 +1,35 @@
+{
+    "briannjuguna7474@gmial.com": {
+        "PhoneNumber": "+254712456789",
+        "name": "BRIAN NJUGUNA",
+        "PassCode": "kenjicladia"
+    },
+    "clackkent344@gmial.com": {
+        "PhoneNumber": "+254712456789",
+        "name": "CLACK KENT",
+        "PassCode": "clackkent"
+    },
+    "cloesulevan3423@gmial.com": {
+        "PhoneNumber": "+254712456789",
+        "name": "CLOE SULEVAN",
+        "PassCode": "cloesulevan"
+    },
+    "johnmon2323@gmial.com": {
+        "PhoneNumber": "+254712456789",
+        "name": "JOHN MON",
+        "PassCode": "johnmon"
+    },
+    "kenjimedani9998@gmail.com": {
+        "PhoneNumber": 70000000000,
+        "name": "Kenji Medani",
+        "PassCode": "kenjimedani"
+    },
+    "clackkent001@gmail.com": {
+        "PhoneNumber": [
+            "+254",
+            "7000000000"
+        ],
+        "name": "CLACK KENT",
+        "PassCode": "clackkent"
+    }
+}
